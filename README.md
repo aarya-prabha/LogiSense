@@ -294,6 +294,17 @@ App will open at: `http://localhost:8501`
 <img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/8278f177-1c8c-4332-bd15-ed73726902a3" />
 
 ---
+---
+
+## 📊 PowerBI Dashboard
+
+<img width="898" height="505" alt="image" src="https://github.com/user-attachments/assets/b902325e-d18d-44f0-86c7-c008ecc8334f" />
+
+---
+
+<img width="898" height="507" alt="image" src="https://github.com/user-attachments/assets/f3b11731-db48-4481-91ed-e3565f2016b8" />
+
+
 
 ## 🤝 Contributing
 
