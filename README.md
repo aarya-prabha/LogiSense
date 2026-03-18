@@ -275,7 +275,23 @@ App will open at: `http://localhost:8501`
 
 ## 📸 Demo & Screenshots
 
-> *(Add screenshots of your Streamlit app here)*
+<img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/fe626fcc-e142-41e3-a14c-e2880b32d063" />
+
+---
+
+<img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/7f0ef850-dd42-45d4-8dd7-fc29712f0726" />
+
+---
+
+<img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/a7b2b00f-6654-4e43-8e46-cdba6153082d" />
+
+---
+
+<img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/380e5f69-7cbc-41ff-8791-332b00ef112d" />
+
+---
+
+<img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/8278f177-1c8c-4332-bd15-ed73726902a3" />
 
 ---
 
